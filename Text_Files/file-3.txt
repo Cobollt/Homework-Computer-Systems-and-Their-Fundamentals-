@@ -1,0 +1,2 @@
+PostgreSQL is a database system.
+Python can work with databases.
